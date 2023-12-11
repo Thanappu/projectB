@@ -1,0 +1,3 @@
+[submodule "src/PackegeA"]
+	path = src/PackegeA
+	url = git@github.com:Thanappu/PackageA.git
